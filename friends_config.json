@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "last_updated": 1732301600000,
+  "users": {
+    "8829123763": {
+      "name": "cyro",
+      "tag": "uwu",
+      "tag_color": "#FF80CBC4",
+      "verified": true,
+      "quotes": [
+        "Живу в коде, дышу патчами 💻",
+        "uwu mode activated ✨",
+        "Меньше слов — больше дела ⚡"
+      ],
+      "quote_type": "carousel"
+    },
+    "6673258633": {
+      "name": "Alisa",
+      "tag": "лучшая",
+      "tag_color": "#FFFF69B4",
+      "verified": true,
+      "quotes": [
+        "Мой самый близкий человечек... рядом сквозь любые грозы ✨",
+        "Звёзды сияют ярче, когда ты улыбаешься 💫",
+        "Береги себя, ты для меня целый мир... 💖"
+      ],
+      "quote_type": "carousel"
+    }
+  }
+}
